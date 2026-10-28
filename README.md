@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Marrr153/Marrr153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Marr
 
-Here are some ideas to get you started:
+### TRPL Student | Aspiring Programmer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://komarev.com/ghpvc/?username=Marrr153&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
+
+---
+
+- 🌱 I'm currently learning **MySQL, PHP, and Python**
+- ⚡ Fun fact: **I think I'm not think** 😂
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript" />
+</p>
